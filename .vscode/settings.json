@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 5500,
+    "emmet.includeLanguages": {
+        "your-language": "html",
+        "rust": "html",
+        "php": "html",
+        "javascript": "html",
+    }
+}
